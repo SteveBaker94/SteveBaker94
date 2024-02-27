@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SteveBaker94
+- 👀 I’m interested in 3D printing, 3D graphics
+- 🌱 I’m currently learning MakeHuman
+- ⚡ Fun fact: I worked on the team that invented the CD-ROM
